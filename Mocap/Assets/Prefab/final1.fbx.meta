@@ -1,0 +1,1269 @@
+fileFormatVersion: 2
+guid: 578d235809027714d861bf9d6218c7be
+timeCreated: 1524893432
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Head
+    100004: Head_End
+    100006: Hips
+    100008: L_Toe_End
+    100010: L_Wrist_End
+    100012: LeftArm
+    100014: LeftFoot
+    100016: LeftForeArm
+    100018: LeftHand
+    100020: LeftHandThumb
+    100022: LeftLeg
+    100024: LeftShoulder
+    100026: LeftToeBase
+    100028: LeftUpLeg
+    100030: master_Body
+    100032: Neck
+    100034: R_Toe_End
+    100036: R_Wrist_End
+    100038: RightArm
+    100040: RightFoot
+    100042: RightForeArm
+    100044: RightHand
+    100046: RightLeg
+    100048: RightShoulder
+    100050: RightToeBase
+    100052: RightUpLeg
+    100054: Solving
+    100056: Spine
+    100058: Spine1
+    100060: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:default1
+    100062: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group3
+    100064: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group4
+    100066: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+    100068: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group7
+    100070: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04
+    100072: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04 1
+    100074: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder1
+    100076: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder2
+    100078: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder7
+    100080: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface10
+    100082: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface11
+    100084: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface12
+    100086: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface13
+    100088: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface14
+    100090: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface15
+    100092: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface16
+    100094: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface17
+    100096: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface18
+    100098: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface19
+    100100: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface2
+    100102: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface20
+    100104: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface3
+    100106: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface5
+    100108: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface52
+    100110: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface53
+    100112: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface54
+    100114: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface55
+    100116: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface56
+    100118: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface57
+    100120: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface57 1
+    100122: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface60
+    100124: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface62
+    100126: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface63
+    100128: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface64
+    100130: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface8
+    100132: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface9
+    100134: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane1
+    100136: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane10
+    100138: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane11
+    100140: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane12
+    100142: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane14
+    100144: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane15
+    100146: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane16
+    100148: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane17
+    100150: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane18
+    100152: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane19
+    100154: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane2
+    100156: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane20
+    100158: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane21
+    100160: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane22
+    100162: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane23
+    100164: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane3
+    100166: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane4
+    100168: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane5
+    100170: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane7
+    100172: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane8
+    100174: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane9
+    100176: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere4
+    100178: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere5
+    100180: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere6
+    100182: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere7
+    100184: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere9
+    100186: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:s_group1
+    100188: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:transform10
+    100190: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+    100192: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yanjiemao1
+    100194: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yaodai
+    400000: //RootNode
+    400002: Head
+    400004: Head_End
+    400006: Hips
+    400008: L_Toe_End
+    400010: L_Wrist_End
+    400012: LeftArm
+    400014: LeftFoot
+    400016: LeftForeArm
+    400018: LeftHand
+    400020: LeftHandThumb
+    400022: LeftLeg
+    400024: LeftShoulder
+    400026: LeftToeBase
+    400028: LeftUpLeg
+    400030: master_Body
+    400032: Neck
+    400034: R_Toe_End
+    400036: R_Wrist_End
+    400038: RightArm
+    400040: RightFoot
+    400042: RightForeArm
+    400044: RightHand
+    400046: RightLeg
+    400048: RightShoulder
+    400050: RightToeBase
+    400052: RightUpLeg
+    400054: Solving
+    400056: Spine
+    400058: Spine1
+    400060: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:default1
+    400062: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group3
+    400064: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group4
+    400066: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+    400068: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group7
+    400070: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04
+    400072: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04 1
+    400074: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder1
+    400076: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder2
+    400078: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder7
+    400080: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface10
+    400082: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface11
+    400084: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface12
+    400086: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface13
+    400088: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface14
+    400090: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface15
+    400092: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface16
+    400094: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface17
+    400096: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface18
+    400098: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface19
+    400100: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface2
+    400102: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface20
+    400104: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface3
+    400106: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface5
+    400108: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface52
+    400110: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface53
+    400112: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface54
+    400114: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface55
+    400116: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface56
+    400118: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface57
+    400120: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface57 1
+    400122: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface60
+    400124: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface62
+    400126: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface63
+    400128: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface64
+    400130: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface8
+    400132: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface9
+    400134: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane1
+    400136: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane10
+    400138: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane11
+    400140: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane12
+    400142: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane14
+    400144: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane15
+    400146: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane16
+    400148: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane17
+    400150: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane18
+    400152: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane19
+    400154: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane2
+    400156: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane20
+    400158: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane21
+    400160: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane22
+    400162: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane23
+    400164: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane3
+    400166: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane4
+    400168: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane5
+    400170: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane7
+    400172: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane8
+    400174: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane9
+    400176: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere4
+    400178: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere5
+    400180: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere6
+    400182: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere7
+    400184: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere9
+    400186: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:s_group1
+    400188: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:transform10
+    400190: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+    400192: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yanjiemao1
+    400194: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yaodai
+    4300000: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane5
+    4300002: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane4
+    4300004: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder1
+    4300006: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane3
+    4300008: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane1
+    4300010: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane2
+    4300012: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane7
+    4300014: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane8
+    4300016: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane9
+    4300018: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane10
+    4300020: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane11
+    4300022: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder2
+    4300024: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane14
+    4300026: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane15
+    4300028: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane16
+    4300030: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane17
+    4300032: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane18
+    4300034: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane19
+    4300036: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane20
+    4300038: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane21
+    4300040: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane22
+    4300042: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane23
+    4300044: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere5
+    4300046: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere6
+    4300048: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere4
+    4300050: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:default1
+    4300052: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface52
+    4300054: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface62
+    4300056: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface56
+    4300058: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface57
+    4300060: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface2
+    4300062: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface3
+    4300064: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane12
+    4300066: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface57
+    4300068: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder7
+    4300070: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface60
+    4300072: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface5
+    4300074: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface8
+    4300076: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface9
+    4300078: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface10
+    4300080: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface11
+    4300082: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface12
+    4300084: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface13
+    4300086: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface14
+    4300088: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface15
+    4300090: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface16
+    4300092: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface17
+    4300094: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface18
+    4300096: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface19
+    4300098: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface20
+    4300100: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface63
+    4300102: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface64
+    4300104: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere7
+    4300106: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere9
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:default1
+    13700002: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder1
+    13700004: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder2
+    13700006: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder7
+    13700008: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface10
+    13700010: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface11
+    13700012: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface12
+    13700014: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface13
+    13700016: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface14
+    13700018: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface15
+    13700020: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface16
+    13700022: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface17
+    13700024: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface18
+    13700026: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface19
+    13700028: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface2
+    13700030: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface20
+    13700032: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface3
+    13700034: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface5
+    13700036: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface52
+    13700038: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface56
+    13700040: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface57
+    13700042: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface57 1
+    13700044: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface60
+    13700046: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface62
+    13700048: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface63
+    13700050: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface64
+    13700052: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface8
+    13700054: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface9
+    13700056: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane1
+    13700058: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane10
+    13700060: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane11
+    13700062: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane12
+    13700064: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane14
+    13700066: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane15
+    13700068: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane16
+    13700070: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane17
+    13700072: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane18
+    13700074: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane19
+    13700076: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane2
+    13700078: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane20
+    13700080: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane21
+    13700082: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane22
+    13700084: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane23
+    13700086: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane3
+    13700088: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane4
+    13700090: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane5
+    13700092: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane7
+    13700094: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane8
+    13700096: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane9
+    13700098: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere4
+    13700100: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere5
+    13700102: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere6
+    13700104: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere7
+    13700106: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2661
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: master_Body
+        weight: 1
+      - path: master_Body/Solving
+        weight: 1
+      - path: master_Body/Solving/Hips
+        weight: 1
+      - path: master_Body/Solving/Hips/LeftUpLeg
+        weight: 1
+      - path: master_Body/Solving/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: master_Body/Solving/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: master_Body/Solving/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+        weight: 1
+      - path: master_Body/Solving/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/L_Toe_End
+        weight: 0
+      - path: master_Body/Solving/Hips/RightUpLeg
+        weight: 1
+      - path: master_Body/Solving/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: master_Body/Solving/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: master_Body/Solving/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+        weight: 1
+      - path: master_Body/Solving/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/R_Toe_End
+        weight: 0
+      - path: master_Body/Solving/Hips/Spine
+        weight: 1
+      - path: master_Body/Solving/Hips/Spine/Spine1
+        weight: 1
+      - path: master_Body/Solving/Hips/Spine/Spine1/LeftShoulder
+        weight: 1
+      - path: master_Body/Solving/Hips/Spine/Spine1/LeftShoulder/LeftArm
+        weight: 1
+      - path: master_Body/Solving/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: master_Body/Solving/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: master_Body/Solving/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/L_Wrist_End
+        weight: 0
+      - path: master_Body/Solving/Hips/Spine/Spine1/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb
+        weight: 0
+      - path: master_Body/Solving/Hips/Spine/Spine1/Neck
+        weight: 1
+      - path: master_Body/Solving/Hips/Spine/Spine1/Neck/Head
+        weight: 1
+      - path: master_Body/Solving/Hips/Spine/Spine1/Neck/Head/Head_End
+        weight: 0
+      - path: master_Body/Solving/Hips/Spine/Spine1/RightShoulder
+        weight: 1
+      - path: master_Body/Solving/Hips/Spine/Spine1/RightShoulder/RightArm
+        weight: 1
+      - path: master_Body/Solving/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: master_Body/Solving/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: master_Body/Solving/Hips/Spine/Spine1/RightShoulder/RightArm/RightForeArm/RightHand/R_Wrist_End
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:default1
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder1
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder2
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface54
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface54/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:transform10
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane1
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane2
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane3
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane4
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane5
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane7
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane8
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane9
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane10
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane11
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane14
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane15
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane16
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane17
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane18
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane19
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane20
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane21
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane22
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane23
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group7
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group7/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere4
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group7/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere5
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group7/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere6
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface52
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface53
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface53/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface55
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface53/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface55/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface62
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface53/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface56
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface53/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface57
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface63
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface64
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane12
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere7
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere9
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:s_group1
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:s_group1/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:s_group1/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface2
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:s_group1/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface3
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface5
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface8
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface9
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface10
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface11
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface12
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface13
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface14
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface15
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface16
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface17
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface18
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface19
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface20
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yanjiemao1
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yanjiemao1/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04
+          1
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yanjiemao1/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04
+          1/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group4
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yanjiemao1/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04
+          1/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group4/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group3
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yaodai
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yaodai/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder7
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yaodai/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface57
+          1
+        weight: 0
+      - path: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yaodai/TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface60
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: final1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: master_Body
+      parentName: final1(Clone)
+      position: {x: -0.0025648302, y: -0.02188257, z: -0.020504836}
+      rotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 0.23, y: 0.23, z: 0.23}
+    - name: Solving
+      parentName: master_Body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Solving
+      position: {x: 0.102206, y: 0.83421665, z: -0.017809765}
+      rotation: {x: 0.08592738, y: 0.67463815, z: -0.052750424, w: 0.73123}
+      scale: {x: 1.0000039, y: 1.000001, z: 1.0000031}
+    - name: LeftUpLeg
+      parentName: Hips
+      position: {x: -0.058914322, y: -0.0022459046, z: -0.0030895825}
+      rotation: {x: -0.081254974, y: 0.12201844, z: -0.042507518, w: 0.9882825}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.000001}
+    - name: LeftLeg
+      parentName: LeftUpLeg
+      position: {x: 0.008573127, y: -0.2826226, z: -0.00079354295}
+      rotation: {x: -0.030847166, y: 0.000000111758695, z: 0.00000007078051, w: 0.9995242}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.000001}
+    - name: LeftFoot
+      parentName: LeftLeg
+      position: {x: 0.007968565, y: -0.3775413, z: -0.040076356}
+      rotation: {x: 0.61194646, y: -0.062245514, z: -0.46674317, w: 0.6354509}
+      scale: {x: 1.0000027, y: 1.0000021, z: 1.0000005}
+    - name: LeftToeBase
+      parentName: LeftFoot
+      position: {x: -0.0033681737, y: 0.058139276, z: 0.04629209}
+      rotation: {x: -0.6278875, y: 0.000000007450579, z: -0.000000014901158, w: 0.77830416}
+      scale: {x: 1.000001, y: 0.99999905, z: 0.9999997}
+    - name: L_Toe_End
+      parentName: LeftToeBase
+      position: {x: -0.016922997, y: -0.016506938, z: 0.004979463}
+      rotation: {x: -0.000000029802315, y: -0, z: -8.881782e-16, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000001}
+    - name: RightUpLeg
+      parentName: Hips
+      position: {x: 0.056972645, y: 0.0023521646, z: 0.003235759}
+      rotation: {x: -0.06048183, y: 0.48703718, z: -0.029108029, w: 0.87079823}
+      scale: {x: 1.000003, y: 0.99999803, z: 1.0000015}
+    - name: RightLeg
+      parentName: RightUpLeg
+      position: {x: -0.010716719, y: -0.28664705, z: -0.022083623}
+      rotation: {x: -0.046387553, y: -0, z: -0.000000024214382, w: 0.99892354}
+      scale: {x: 1.0000027, y: 1.0000004, z: 1.0000026}
+    - name: RightFoot
+      parentName: RightLeg
+      position: {x: -0.010065102, y: -0.36254206, z: -0.04525818}
+      rotation: {x: -0.7551888, y: 0.1257488, z: 0.52093697, w: -0.377494}
+      scale: {x: 1.000006, y: 1.0000006, z: 1}
+    - name: RightToeBase
+      parentName: RightFoot
+      position: {x: -0.029745867, y: 0.03406236, z: 0.058786266}
+      rotation: {x: 0.6156781, y: -0.00000015646218, z: 0.000000119209275, w: -0.78799784}
+      scale: {x: 1.0000027, y: 0.9999988, z: 1.0000051}
+    - name: R_Toe_End
+      parentName: RightToeBase
+      position: {x: -0.007998443, y: -0.0006846702, z: 0.010654638}
+      rotation: {x: 0.000000029802308, y: -0, z: 1.776356e-14, w: 1}
+      scale: {x: 1.0000017, y: 1.0000011, z: 1.0000007}
+    - name: Spine
+      parentName: Hips
+      position: {x: -0, y: 0.001, z: 1.7763568e-17}
+      rotation: {x: -0.10065024, y: 0.07255226, z: -0.032712016, w: 0.9917337}
+      scale: {x: 1.0000031, y: 1.0000038, z: 1.0000017}
+    - name: Spine1
+      parentName: Spine
+      position: {x: 0.001309621, y: 0.11392249, z: -0.000625174}
+      rotation: {x: -0.039179184, y: -0.05859613, z: -0.02121968, w: 0.997287}
+      scale: {x: 1.0000128, y: 1.0000021, z: 1.0000253}
+    - name: Neck
+      parentName: Spine1
+      position: {x: 0.003031992, y: 0.15168186, z: -0.0053942525}
+      rotation: {x: -0.034891117, y: -0.08595274, z: -0.111395635, w: 0.98943716}
+      scale: {x: 1.0000074, y: 0.99999815, z: 1.0000045}
+    - name: Head
+      parentName: Neck
+      position: {x: -0.043668967, y: 0.11297634, z: 0.021730056}
+      rotation: {x: 0.06710393, y: 0.31764477, z: 0.062011883, w: 0.9437974}
+      scale: {x: 1.00001, y: 1.0000272, z: 0.99997866}
+    - name: Head_End
+      parentName: Head
+      position: {x: -0.016595375, y: 0.08316035, z: -0.0058356393}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000019, z: 0.9999999}
+    - name: LeftShoulder
+      parentName: Spine1
+      position: {x: -0.013444386, y: 0.1390788, z: -0.0066238516}
+      rotation: {x: 0.07741683, y: -0.13179722, z: 0.6306345, w: 0.7608786}
+      scale: {x: 1.0000079, y: 1.0000107, z: 0.99999726}
+    - name: LeftArm
+      parentName: LeftShoulder
+      position: {x: 0.0006880844, y: 0.09922094, z: -0.012004362}
+      rotation: {x: 0.16930975, y: -0.19754809, z: -0.0038142158, w: 0.96555394}
+      scale: {x: 0.99995273, y: 1.000002, z: 1.0000644}
+    - name: LeftForeArm
+      parentName: LeftArm
+      position: {x: -0.036305394, y: 0.1769321, z: -0.021047194}
+      rotation: {x: -0.09644615, y: -0.008169395, z: 0.036399428, w: 0.9946389}
+      scale: {x: 1.0000012, y: 1.0000007, z: 1.0000008}
+    - name: LeftHand
+      parentName: LeftForeArm
+      position: {x: -0.017454293, y: 0.15389207, z: 0.009777315}
+      rotation: {x: 0.10868165, y: 0.51788837, z: 0.19353294, w: 0.8261508}
+      scale: {x: 1.0000032, y: 1.0000063, z: 0.99999475}
+    - name: LeftHandThumb
+      parentName: LeftHand
+      position: {x: 0.0038058294, y: -0.0021174487, z: -0.008565219}
+      rotation: {x: -0, y: -0, z: -0.000000011175866, w: 1}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000002}
+    - name: L_Wrist_End
+      parentName: LeftHand
+      position: {x: 0.0024545894, y: 0.073086254, z: -0.013255252}
+      rotation: {x: -0, y: -0, z: -0.000000011175866, w: 1}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000002}
+    - name: RightShoulder
+      parentName: Spine1
+      position: {x: 0.0031987387, y: 0.14832777, z: -0.005690913}
+      rotation: {x: -0.15209076, y: -0.17822737, z: -0.60442054, w: 0.76143235}
+      scale: {x: 1.0000151, y: 1.0000154, z: 1.0000153}
+    - name: RightArm
+      parentName: RightShoulder
+      position: {x: -0.0032660752, y: 0.11229037, z: -0.021263056}
+      rotation: {x: -0.1839461, y: 0.07961414, z: -0.16236275, w: 0.9661593}
+      scale: {x: 1.0000191, y: 1.0000044, z: 0.9999876}
+    - name: RightForeArm
+      parentName: RightArm
+      position: {x: -0.021702036, y: 0.11402937, z: 0.033039346}
+      rotation: {x: 0.29461455, y: -0.005350596, z: 0.02231239, w: 0.95534074}
+      scale: {x: 1, y: 0.9999999, z: 1.0000002}
+    - name: RightHand
+      parentName: RightForeArm
+      position: {x: -0.006236463, y: 0.14708607, z: -0.028889798}
+      rotation: {x: 0.0050174873, y: -0.0015271999, z: -0.005094846, w: 0.99997336}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000001}
+    - name: R_Wrist_End
+      parentName: RightHand
+      position: {x: 0.007920219, y: 0.09507071, z: -0.032730963}
+      rotation: {x: -0, y: -0, z: 1.7371345e-10, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:default1
+      parentName: final1(Clone)
+      position: {x: -0, y: -0.0023597472, z: 0.00008432432}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.009093, y: 1.009093, z: 1.0872521}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      parentName: final1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder1
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: -0, y: 0.24882556, z: -0.0001308579}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder2
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.027717201, y: 0.24882556, z: -0.00077803456}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface54
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.0077884877, y: 0.2687048, z: -0.0025001096}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:transform10
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface54
+      position: {x: 0.007925105, y: -0.023370279, z: 0.0025001096}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane1
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: -0, y: 0.24882556, z: -0.0001308579}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane2
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: -0, y: 0.24882556, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane3
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: -0, y: 0.24882556, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane4
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: -0, y: 0.24882556, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane5
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: -0, y: 0.24882556, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane7
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: -0, y: 0.24864776, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane8
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.010918432, y: 0.24882556, z: 0}
+      rotation: {x: -0.005306919, y: 0.005304835, z: -0.0042468463, w: 0.99996287}
+      scale: {x: -1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane9
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.005511714, y: 0.24882556, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane10
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.015102315, y: 0.24882556, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane11
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.009006383, y: 0.24882556, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane14
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: -0.0032250085, y: 0.24858159, z: 0}
+      rotation: {x: -0.0056761377, y: -0.06943062, z: -0.081282884, w: 0.99425364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane15
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: -0, y: 0.2422485, z: 0}
+      rotation: {x: -0.12415501, y: -0.24087502, z: 0.031084558, w: 0.9620803}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane16
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.012938709, y: 0.24394226, z: 2.7957547e-10}
+      rotation: {x: -0.062434793, y: 0.52626514, z: -0.03341695, w: 0.84736663}
+      scale: {x: -1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane17
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.012941131, y: 0.24292143, z: 0.0017976757}
+      rotation: {x: -0.14293785, y: -0.011224506, z: -0.0018655895, w: 0.9896663}
+      scale: {x: -1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane18
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: -0, y: 0.24882556, z: 0.005742884}
+      rotation: {x: 0.09252513, y: 0.4094589, z: -0.046255425, w: 0.9064452}
+      scale: {x: 0.899403, y: 0.899403, z: -0.32520655}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane19
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.00045882235, y: 0.24858159, z: 0}
+      rotation: {x: -0.019781727, y: 0.1010651, z: -0.07850656, w: 0.9915802}
+      scale: {x: 0.68622243, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane20
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.00041444352, y: 0.24882556, z: 0.00061388954}
+      rotation: {x: 0, y: 0, z: 0.0038060988, w: 0.9999928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane21
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.00839942, y: 0.24858159, z: 0}
+      rotation: {x: -0.019781727, y: 0.1010651, z: -0.07850656, w: 0.9915802}
+      scale: {x: 0.57955396, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane22
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.0135659585, y: 0.24292143, z: 0.000816709}
+      rotation: {x: -0.12973608, y: 0.11809207, z: -0.12592955, w: 0.9764039}
+      scale: {x: -1.4227382, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane23
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group5
+      position: {x: 0.012494676, y: 0.24714835, z: 0.00088699436}
+      rotation: {x: -0.1480529, y: 0.0033952969, z: 0.06684287, w: 0.98671216}
+      scale: {x: -1.2462325, y: 1.2153327, z: 0.8759394}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group7
+      parentName: final1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere4
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group7
+      position: {x: -0.0005976557, y: 0.2917524, z: -0.013276132}
+      rotation: {x: -0.29384214, y: 0, z: -0, w: 0.95585394}
+      scale: {x: 1, y: 0.7732238, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere5
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group7
+      position: {x: -0.015332032, y: 0.22626802, z: 0.013617535}
+      rotation: {x: -0.4060793, y: -0.031381898, z: -0.26587564, w: 0.8737419}
+      scale: {x: 0.60670877, y: 0.46912163, z: 0.60670877}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere6
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group7
+      position: {x: 0.015957283, y: 0.22626802, z: 0.010214403}
+      rotation: {x: 0.0361008, y: 0.32014054, z: 0.8839384, w: -0.3389096}
+      scale: {x: 0.60670877, y: 0.46912163, z: 0.60670877}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface52
+      parentName: final1(Clone)
+      position: {x: 0.0017869757, y: 0.0034910382, z: 0}
+      rotation: {x: 0.011835934, y: -0.0043786126, z: 0.007342429, w: 0.9998934}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface53
+      parentName: final1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface55
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface53
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface62
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface55
+      position: {x: -0.02595946, y: 0.05375326, z: 0.00030929127}
+      rotation: {x: -0.03985031, y: -0.05082575, z: -0.28421548, w: 0.9565826}
+      scale: {x: 2.0111666, y: 1.0038315, z: 1.3435186}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface56
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface53
+      position: {x: 0.00051195675, y: -0.000003208034, z: 0.0009253008}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0367874, y: 1.006616, z: 1.2106993}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface57
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface53
+      position: {x: 0.024364999, y: -0.000003208034, z: 0.0006649663}
+      rotation: {x: 1, y: -0, z: 0, w: 6.123234e-17}
+      scale: {x: -1.0367874, y: -1.006616, z: -1.2106993}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface63
+      parentName: final1(Clone)
+      position: {x: -0, y: 0.0034910382, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface64
+      parentName: final1(Clone)
+      position: {x: -0, y: 0.0034910382, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pPlane12
+      parentName: final1(Clone)
+      position: {x: -0.00731877, y: 0.24342775, z: -0.014793658}
+      rotation: {x: -0.37889504, y: -0.48510796, z: 0.47172236, w: 0.63133734}
+      scale: {x: 0.7450484, y: 0.7450484, z: 0.5100618}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere7
+      parentName: final1(Clone)
+      position: {x: -0.005310427, y: 0.26724386, z: 0.009290646}
+      rotation: {x: -0.6639365, y: -0.15644442, z: 0.062805176, w: 0.728539}
+      scale: {x: 0.38676566, y: 0.38676566, z: 0.38676566}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pSphere9
+      parentName: final1(Clone)
+      position: {x: 0.005282264, y: 0.26703405, z: 0.009254817}
+      rotation: {x: -0.6782601, y: -0.07245552, z: 0.15313727, w: 0.7150262}
+      scale: {x: 0.38676566, y: 0.38676566, z: -0.38676566}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:s_group1
+      parentName: final1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.0860574, y: 0.0860574, z: 0.0860574}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:s_group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface2
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04
+      position: {x: -0.054871455, y: 0.040566392, z: -0.03873835}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.5089556, y: 1.5089556, z: 1.5089556}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface3
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04
+      position: {x: -0.017820256, y: -0.027735263, z: -0.076299705}
+      rotation: {x: 0.010060485, y: -0, z: -0, w: 0.9999494}
+      scale: {x: 1.5333644, y: 1.5333644, z: 1.5333644}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      parentName: final1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface5
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: 0.09386125, y: -1.3366631, z: -0.7090412}
+      rotation: {x: 0.9523675, y: -0.05462063, z: 0.25859648, w: -0.15212075}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface8
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: 0.3003267, y: -1.3764422, z: -0.56550217}
+      rotation: {x: 0.95209396, y: 0.025910586, z: 0.28244203, w: -0.11433405}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface9
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: 0.25216082, y: -1.2493331, z: -0.8156314}
+      rotation: {x: 0.97449607, y: 0.077050224, z: 0.059473034, w: -0.20219702}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface10
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: 0.027275953, y: -1.385988, z: -0.61767393}
+      rotation: {x: 0.93824, y: -0.08769447, z: 0.31758833, w: -0.10560864}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface11
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: 0.39912525, y: -1.2421737, z: -0.7695855}
+      rotation: {x: 0.9227955, y: 0.02092508, z: 0.32240492, w: -0.20991856}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface12
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: 0.9700884, y: -0.7137511, z: -0.87244743}
+      rotation: {x: 0.8741547, y: 0.35981515, z: 0.11927682, w: -0.30357817}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface13
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: 0.35793087, y: -1.2878064, z: -0.711977}
+      rotation: {x: 0.9257669, y: 0.010905596, z: 0.32765046, w: -0.18836644}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface14
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: 1.1909131, y: -0.69656026, z: -0.53802484}
+      rotation: {x: 0.8451074, y: 0.4144803, z: 0.2382155, w: -0.239276}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface15
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: 0.6763686, y: -1.0861295, z: -0.79964155}
+      rotation: {x: 0.8919003, y: 0.10633042, z: 0.34546122, w: -0.27177975}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface16
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: 0.98324835, y: -0.81032914, z: -0.78291625}
+      rotation: {x: 0.86390394, y: 0.26893437, z: 0.2848436, w: -0.3165572}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface17
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: 0.22745085, y: -1.3996735, z: 0.48400572}
+      rotation: {x: 0.92017066, y: 0.10648064, z: 0.2772971, w: 0.2550571}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface18
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: -0.017337665, y: -1.5039357, z: 0.09472183}
+      rotation: {x: 0.9850852, y: -0.005212248, z: 0.09117073, w: 0.14583524}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface19
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: -0.36992976, y: -0.7989543, z: 1.1398691}
+      rotation: {x: 0.7387753, y: 0.019107765, z: 0.3420817, w: 0.58036727}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface20
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:YAN2
+      position: {x: 0.07743597, y: -1.1504326, z: 0.9109316}
+      rotation: {x: 0.8643367, y: 0.098708466, z: 0.24515793, w: 0.42787424}
+      scale: {x: -0.17475769, y: -0.17475769, z: -0.17475769}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yanjiemao1
+      parentName: final1(Clone)
+      position: {x: 0.0064698146, y: 0.26369873, z: 0.0107401535}
+      rotation: {x: 0, y: -0.040398, z: -0, w: 0.9991837}
+      scale: {x: -0.0860574, y: 0.0860574, z: 0.0860574}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04 1
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yanjiemao1
+      position: {x: -0.06584747, y: -4.415979, z: -0.11980436}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.0307107, y: 2.0307107, z: 2.0307107}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group4
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:Object04 1
+      position: {x: 0.032219827, y: 0.7702038, z: 0.05909012}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group3
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:group4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.003150557, y: 0.03358238, z: -0.0633289, w: 0.9974226}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yaodai
+      parentName: final1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:pCylinder7
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yaodai
+      position: {x: -0.0037559536, y: 0.17655404, z: 0.020298999}
+      rotation: {x: -0.07915624, y: -0.070115864, z: 0.6466366, w: 0.75543314}
+      scale: {x: 0.12478994, y: 0.26442528, z: 0.09398562}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface57 1
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yaodai
+      position: {x: 0.024286494, y: -0.005841272, z: -0.0034124686}
+      rotation: {x: -0.0021572774, y: 0.99413466, z: 0.097982526, w: 0.045727935}
+      scale: {x: 1.5372667, y: 3.0267704, z: 1.5372667}
+    - name: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:polySurface60
+      parentName: TEMPORARY_IMPORT_NAMESPACE___www_maya09_cn__ren:yaodai
+      position: {x: 0.0007271289, y: 0.004016926, z: 0.0011050642}
+      rotation: {x: 0.0113626495, y: -0.030655364, z: -0.07864986, w: 0.9963661}
+      scale: {x: 1.8926064, y: 1.5645186, z: 2.274627}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
